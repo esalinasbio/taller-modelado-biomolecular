@@ -9,7 +9,7 @@ Los cuadernos corren en **Google Colab**, sin instalación local.
 
 | Parte | Tema | Notebook |
 |---|---|---|
-| 1 | Dinámica molecular | |
+| 1 | Dinámica molecular | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esalinasbio/taller-modelado-biomolecular/blob/master/notebooks/01_Dinamica_Molecular.ipynb) |
 | 2 | Acoplamiento molecular (*docking*) | |
 | 3 | Predicción de estructura y co-plegamiento | |
 | 4 | Diseño de proteínas | |
