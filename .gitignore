@@ -1,0 +1,17 @@
+# Salidas de simulación con solvente (pesadas, no versionar)
+datos_taller/
+*.out
+*.log
+nohup.out
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*~

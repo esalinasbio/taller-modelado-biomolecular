@@ -1,0 +1,12 @@
+parm datos_taller/rescate/topologia_final.pdb
+trajin datos_taller/_completo.xtc
+trajin datos_taller/_completo_seg2.xtc
+autoimage anchor :1-131 origin
+rms first @CA
+outtraj datos_taller/1aud_100ns_full.xtc
+outtraj datos_taller/1aud_topologia_full.pdb pdb onlyframes 1
+strip :HOH,WAT,NA,CL,K,LI,RB,CS,BR
+trajout datos_taller/1aud_100ns_noWAT.xtc
+trajout datos_taller/1aud_topologia_noWAT.pdb pdb onlyframes 1
+go
+quit

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Taller de Modelado Biomolecular"
+message: "Si usan estos materiales, por favor cítenlos así"
+type: dataset
+authors:
+  - family-names: "Salinas"
+    given-names: "Emiliano"
+    affiliation: "UNAM"
+    orcid: "https://orcid.org/0009-0000-4234-3245"
+abstract: >-
+  Materiales de un taller práctico de cinco sesiones sobre modelado computacional
+  de proteínas y ácidos nucleicos: dinámica molecular, acoplamiento molecular,
+  predicción de estructura, diseño de proteínas y ensambles conformacionales.
+keywords:
+  - dinámica molecular
+  - biología estructural computacional
+  - RNA
+  - Modelado molecular
+license: CC-BY-4.0
+repository-code: "https://github.com/esalinasbio/taller-modelado-biomolecular"
+version: "1.0.0"
+date-released: "2026-09-07"
