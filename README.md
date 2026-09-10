@@ -14,7 +14,7 @@ Los cuadernos corren en **Google Colab**, sin instalación local.
 | 2 | Acoplamiento molecular (*docking*) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esalinasbio/taller-modelado-biomolecular/blob/master/notebooks/03_Docking.ipynb) |
 | 2 | Acoplamiento molecular (OPCIONAL) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esalinasbio/taller-modelado-biomolecular/blob/master/notebooks/04_Docking_RNA_rDock.ipynb) |
 | 3 | Predicción de estructura y co-plegamiento | [Link a ColabFold](https://github.com/sokrypton/colabfold) |
-| 4 | Diseño de proteínas | |
+| 4 | Diseño de proteínas | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esalinasbio/taller-modelado-biomolecular/blob/master/notebooks/04_design.ipynb) |
 | 5 | Ensambles conformacionales | |
 
 
