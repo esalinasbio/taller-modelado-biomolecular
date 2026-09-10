@@ -17,6 +17,7 @@ Los cuadernos corren en **Google Colab**, sin instalación local.
 | 4 | Diseño de proteínas | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esalinasbio/taller-modelado-biomolecular/blob/master/notebooks/04_design.ipynb) |
 | 5 | Ensambles conformacionales | |
 
+### Link a documentación de foundry: [foundry](https://rosettacommons.github.io/foundry/index.html)
 
 ## Estructura
 
